@@ -1,35 +1,4 @@
-<html><head><base href="/" /><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Transforme Seu Corpo - Curso de Emagrecimento e Saúde</title>
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        font-family: 'Poppins', sans-serif;
-      }
-
-      :root {
-        --primary: #ff4757;
-        --secondary: #2ed573;
-        --dark: #2f3542;
-      }
-
-      body {
-        line-height: 1.6;
-      }
-
-      .header {
-        background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3');
-        background-size: cover;
-        background-position: center;
-        color: white;
-        text-align: center;
-        padding: 150px 20px;
-      }
-
-      .header h1 {
-        font-size: 3.5em;
-        margin-bottom: 20px;
+<
         animation: fadeIn 1s ease-in;
       }
 
